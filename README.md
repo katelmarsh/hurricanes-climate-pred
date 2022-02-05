@@ -11,7 +11,7 @@ We used hierarchical clustering to make 4 different clusters of hurricanes, roug
 From this analysis, we conducted a principal component analysis to try to identify why certain outliers happened in our different clusters. We were able to find that the outliers have a relationship with sea surface temperature. In our cluster 3, which usually does not have the highest damage but includes high outliers in the dataset, the sea surface temperature anomalies correspond with their increased damage more than any of the other variables in the dataset. This shows that when a hurricane might cause an average amount of damage, being formed during a sea surface temperature anomaly could take it from being a Hurricane Henri to a Hurricane Ida. 
 
 
-#Citations
+Citations
 
 McNulty, I. (2022, January 19). What's ahead for restaurants, bars closed since Hurricane Ida? answers vary widely. NOLA.com. Retrieved February 5, 2022, from https://www.nola.com/entertainment_life/eat-drink/article_699723b2-74bc-11ec-8d6d-0ba9ad05bd40.html 
 
