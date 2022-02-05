@@ -17,5 +17,9 @@ Citations
 - Newman, A., & Ferré-Sadurní, L. (2021, November 12). As ida deaths rise, N.Y. leaders look toward future storms. The New York Times. Retrieved February 5, 2022, from https://www.nytimes.com/live/2021/09/03/nyregion/nyc-flooding-ida#:~:text=Even%20so%2C%20state%20leaders%20said,people%20were%20still%20without%20electricity. 
 - Weinkle, J., Landsea, C., Collins, D., Musulin, R., Crompton, R., Klotzbach, P., & Pielke, R. (2018). Normalized hurricane damage in the continental United States 1900–2017. *Nature Sustainability*, 1(12), 808-813. doi: 10.1038/s41893-018-0165-2
 
+Datasets Used
+- IBTrACS version 04 (Knapp et al., 2010) Knapp, K. R., M. C. Kruk, D. H. Levinson, H. J. Diamond, and C. J. Neumann, 2010: The International Best Track Archive for Climate Stewardship (IBTrACS): Unifying tropical cyclone best track data. Bulletin of the American Meteorological Society, 91, 363-376. doi:10.1175/2009BAMS2755.1 
+- ERSST (Huang et al., 2017) Boyin Huang, Peter W. Thorne, Viva F. Banzon, Tim Boyer, Gennady Chepurin, Jay H. Lawrimore, Matthew J. Menne, Thomas M. Smith, Russell S. Vose, and Huai-Min Zhang (2017): NOAA Extended Reconstructed Sea Surface Temperature (ERSST), Version 5. [indicate subset used]. NOAA National Centers for Environmental Information. doi:10.7289/V5T72FNM
+
 
 This project was written on Google Collab, which is available [here](https://colab.research.google.com/drive/15e5MMJmi2RwVWZg9UV0wh5mKtxJjp82U?usp=sharing). The file is also available in this repository. 
