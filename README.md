@@ -12,7 +12,7 @@ From this analysis, we conducted a principal component analysis to try to identi
 
 
 Citations
-
-McNulty, I. (2022, January 19). What's ahead for restaurants, bars closed since Hurricane Ida? answers vary widely. NOLA.com. Retrieved February 5, 2022, from https://www.nola.com/entertainment_life/eat-drink/article_699723b2-74bc-11ec-8d6d-0ba9ad05bd40.html 
-
-Newman, A., & Ferré-Sadurní, L. (2021, November 12). As ida deaths rise, N.Y. leaders look toward future storms. The New York Times. Retrieved February 5, 2022, from https://www.nytimes.com/live/2021/09/03/nyregion/nyc-flooding-ida#:~:text=Even%20so%2C%20state%20leaders%20said,people%20were%20still%20without%20electricity. 
+- Dare, R., & McBride, J. (2011). The Threshold Sea Surface Temperature Condition for Tropical Cyclogenesis. *Journal Of Climate*, 24(17), 4570-4576. doi: 10.1175/jcli-d-10-05006.1
+- McNulty, I. (2022, January 19). What's ahead for restaurants, bars closed since Hurricane Ida? answers vary widely. NOLA.com. Retrieved February 5, 2022, from https://www.nola.com/entertainment_life/eat-drink/article_699723b2-74bc-11ec-8d6d-0ba9ad05bd40.html 
+- Newman, A., & Ferré-Sadurní, L. (2021, November 12). As ida deaths rise, N.Y. leaders look toward future storms. The New York Times. Retrieved February 5, 2022, from https://www.nytimes.com/live/2021/09/03/nyregion/nyc-flooding-ida#:~:text=Even%20so%2C%20state%20leaders%20said,people%20were%20still%20without%20electricity. 
+- Weinkle, J., Landsea, C., Collins, D., Musulin, R., Crompton, R., Klotzbach, P., & Pielke, R. (2018). Normalized hurricane damage in the continental United States 1900–2017. *Nature Sustainability*, 1(12), 808-813. doi: 10.1038/s41893-018-0165-2
