@@ -16,3 +16,6 @@ Citations
 - McNulty, I. (2022, January 19). What's ahead for restaurants, bars closed since Hurricane Ida? answers vary widely. NOLA.com. Retrieved February 5, 2022, from https://www.nola.com/entertainment_life/eat-drink/article_699723b2-74bc-11ec-8d6d-0ba9ad05bd40.html 
 - Newman, A., & Ferré-Sadurní, L. (2021, November 12). As ida deaths rise, N.Y. leaders look toward future storms. The New York Times. Retrieved February 5, 2022, from https://www.nytimes.com/live/2021/09/03/nyregion/nyc-flooding-ida#:~:text=Even%20so%2C%20state%20leaders%20said,people%20were%20still%20without%20electricity. 
 - Weinkle, J., Landsea, C., Collins, D., Musulin, R., Crompton, R., Klotzbach, P., & Pielke, R. (2018). Normalized hurricane damage in the continental United States 1900–2017. *Nature Sustainability*, 1(12), 808-813. doi: 10.1038/s41893-018-0165-2
+
+
+This project was written on Google Collab, which is available [here](https://colab.research.google.com/drive/15e5MMJmi2RwVWZg9UV0wh5mKtxJjp82U?usp=sharing). The file is also available in this repository. 
