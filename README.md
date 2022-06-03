@@ -1,7 +1,7 @@
 # Hurricanes tracks and their economic impacts in a changing climate
 Applied Data Science: Climate Prediction Challenges Project 1 
 
-We have all been affected by hurricanes. Even just this past summer when Hurricane Ida hit the United States, Kate’s family was hit in New Orleans and she, George, Haoyue, and Muji were all hit by Hurricane Ida in New York. In just a few days, Hurricane Ida in NYC stopped our travel, killed at least 16 people, and “easily surpassed the $30 million threshold required for… major disaster declaration” (Newman, 2021). Across the country from New York City, New Orleans is still recovering from Ida in February. Some businesses are still closed and many residential roofs still need to be replaced (McNulty, 2022). 
+We have all been affected by hurricanes. In just a few days, Hurricane Ida in NYC stopped travel, killed at least 16 people, and “easily surpassed the $30 million threshold required for… major disaster declaration” (Newman, 2021). Across the country from New York City, New Orleans is still recovering from Ida in February. Some businesses are still closed and many residential roofs still need to be replaced (McNulty, 2022). 
 
 Seeing all of this hurricane damage across the country begs the question, what kind of economic impacts do these storm tracks have, and have these impacts been rising with a relationship to the changing climate? 
 
